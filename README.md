@@ -112,15 +112,3 @@ http://localhost:8080/user_management.php
 php generate_password.php your_password
 
 2. The output will display the original password and the hashed version.
-
-
-
-
-
-
-
-
-
-
-
-
